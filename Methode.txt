@@ -1,0 +1,42 @@
+1) structuration du code 
+2) verification du code sur validatorw3c.org et whatwg.org
+	la verifiaction du code nous permet de voir les defauts de notre code .
+
+3) hebergement du site et ajustement . 
+
+verification sur whatwg.org c'est ok juste les title des h2 à apporter
+
+4) pagespeed.web.dev nous a donné un bon score mais pas au niveau des performances tout en nous disant ce qui cloche . Nous avons notamment decider de convertir tous nos anciens formats d'images : jpg et png en webp , une extension mieux accepter sur le web car prend moins d'espace tout en concervant la qualité de l'image. avec le site web : convertio.co/fr/webp-converter/
+
+nous avons fait les modification , au niveau du cache etc et avons eu de meilleurs resultats . 96 100 100 100seo
+
+Passons à l'indexation du site : sur google , google search console 
+
+on recupere la balise qui prouve que c'est notre site. c'est un fichier .html
+
+
+Utilisez la recherche Google : Entrez la commande suivante dans la barre de recherche de Google : site:votredomaine.com. Remplacez "votredomaine.com" par l'URL de votre site réel. Cette requête de recherche spécifique affichera les pages de votre site qui ont été indexées par Google.
+
+
+on a ajouter le lien du site à orientation cameroun . 
+
+ajouter le site à des annuaires de sites web populaire : webwiki.fr 
+
+l'ajout du site map ne passe pas avec l'hebergeur gratuit . on essaie depuis 3 h deja , webhost semble limité l'acces à distance à mon site web ; mais vu qe mon site est simple , pas besoin de site map . cela n'influencera pas trop pour l'indexation . aussi , pour que le site map soit pris en compte , il faut du temps ( une semaine environ) 
+
+
+on teste sur google : test d'optimisation mobile  , nous avons eu validation . ceci permet d'attirer l'attention des robots de google . 
+
+sur bing cest la meme procedure : introduire la balise.xml de bing dans le code , loader le site map . 
+
+on peut directement specifier les url d'indexation urgent : url submission
+
+referencement reussi chez being . 
+
+
+
+
+
+webhost :  
+		Nom :LesRef
+		Mot de passe Lesref2023*
